@@ -1,0 +1,4 @@
+/*
+  TODO: Fazer o login através do fetch para melhor experiência de usuário 
+  mostrando mensagem caso a validação dos campos dê errado. DONE
+*/
