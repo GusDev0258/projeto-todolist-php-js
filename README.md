@@ -12,8 +12,6 @@
 
 ## Imagens do projeto
 
-    ![Login Page](projeto-todolist-php-js\images-md\login.png "Login Page")
+    ![Login Page](https://github.com/GusDev0258/projeto-todolist-php-js/blob/main/images-md/login.png "Login Page")
 
-    ![Todo List](projeto-todolist-php-js\images-md\todo-list.png "To do List")
-
-    <img src="./images-md/login.png" width:"200" height:"200">
+    <img src="https://github.com/GusDev0258/projeto-todolist-php-js/blob/main/images-md/login.png" width:"200" height:"200">
